@@ -1,4 +1,4 @@
-# SwasthAI: Bridging the Health Literacy Gap in India
+# SwasthAI-AI-Healthcare-Accessibility-Platform
 
 ## Project Overview
 SwasthAI is a Product Management initiative focused on addressing the barriers created by complex English language and medical jargon in the Indian healthcare landscape. The project identifies that while digital health information is abundant, it is often inaccessible to the majority of the Indian population due to language complexity.
