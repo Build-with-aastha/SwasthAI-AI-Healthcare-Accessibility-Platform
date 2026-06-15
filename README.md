@@ -1,9 +1,10 @@
 # Final Solution: Live Working App
 
-Following extensive research, PRD documentation, and case study analysis, the fully functional application is now live. Click the button below to experience the real-time solution:
+Following extensive research, PRD documentation, and case study analysis, the fully functional application is now live. 
 
-[![Live App](https://shields.io)](https://ai.studio/apps/3032c0cd-ec9c-4de3-873c-f6f57e4a24f0)
+*[Click Here to Experience the Live App](https://ai.studio/apps/3032c0cd-ec9c-4de3-873c-f6f57e4a24f0)*
 
+---
 # SwasthAI-AI-Healthcare-Accessibility-Platform
 
 ## Project Overview
