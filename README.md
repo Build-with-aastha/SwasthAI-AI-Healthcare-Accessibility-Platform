@@ -2,7 +2,7 @@
 
 Following extensive research, PRD documentation, and case study analysis, the fully functional application is now live. Please find the project overview video and live app links below:
 
-*[Watch Project Overview Video](https://drive.google.com/file/d/14SsRHgr-cCXtH4f_3DxaMgkr6hvErV-Z/view?usp=drivesdk)* (Generated using Google NotebookLM based on my case study)  
+*[Watch Project Overview Video](https://drive.google.com/file/d/1KVLpk8qmaDMsNtkTYEHHOKS0JLgWGT-r/view?usp=drivesdk)* (Generated using Google NotebookLM based on my case study)  
 
 *[Click Here to Experience the Live App](https://ai.studio/apps/3032c0cd-ec9c-4de3-873c-f6f57e4a24f0)*
 
